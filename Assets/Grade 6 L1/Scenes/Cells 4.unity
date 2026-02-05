@@ -5689,7 +5689,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 38362940cfb4da34dae78f6db8ffcf59, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4891a4515db6e65449215164aef7cd22, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7813,7 +7813,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Cells 4
+          m_StringArgument: Cells 3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1985373750111770523
@@ -10518,7 +10518,7 @@ MonoBehaviour:
   playBothSimultaneously: 0
   playFlipSoundAfterAnimation: 0
   extraDelayBeforeFlipSound: 0
-  definitionSound: {fileID: 8300000, guid: f454bcca16796cb42a11dbe6cfa016af, type: 3}
+  definitionSound: {fileID: 8300000, guid: 78783027965b8f941a3145c7240757cb, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0
   hoverCooldownSeconds: 0.5
@@ -14307,7 +14307,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: Meiosis
+      value: Variation
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -14371,7 +14371,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3445040396596485754, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 477.385
+      value: 473.886
       objectReference: {fileID: 0}
     - target: {fileID: 3445040396596485754, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.y
@@ -14431,11 +14431,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 380.49
+      value: 499.3
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 446.358
+      value: 499.64
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_LocalScale.x
@@ -14455,7 +14455,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 102
+      value: 75.182
       objectReference: {fileID: 0}
     - target: {fileID: 5975330814705765194, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_Pivot.x
@@ -14551,8 +14551,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: A special type of cell division that creates four cells with half the
-        usual chromosome number.
+      value: Natural differences between individuals of the same species.
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -15390,11 +15389,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: Mitosis
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
-      propertyPath: m_Enabled
-      value: 1
+      value: Meristem
       objectReference: {fileID: 0}
     - target: {fileID: 2652987770420206177, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -15458,7 +15453,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3445040396596485754, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 481.543
+      value: 453.412
       objectReference: {fileID: 0}
     - target: {fileID: 3445040396596485754, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.y
@@ -15518,11 +15513,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 337.198
+      value: 561.53
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 513.36
+      value: 561.514
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_LocalScale.x
@@ -15554,11 +15549,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.59999835
+      value: 53
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 95
+      value: 88.402
       objectReference: {fileID: 0}
     - target: {fileID: 5317253735420501976, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -15658,8 +15653,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_text
-      value: A type of cell division that makes two identical cells for growth, repair,
-        and replacement.
+      value: A plant region, such as root and shoot tips, where cells divide rapidly.
       objectReference: {fileID: 0}
     - target: {fileID: 6076728189443036713, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: m_fontSize
@@ -16406,7 +16400,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Cells 2
+          m_StringArgument: Cells 3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!224 &6985517488368234611
@@ -16478,7 +16472,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &7127605198180840754
 GameObject:
   m_ObjectHideFlags: 0
@@ -18079,7 +18073,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 57b8c7888e163f64196cc4072c7e3fcc, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 06c576bbbdd307a409ac829bca225acc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -19473,7 +19467,7 @@ MonoBehaviour:
   playBothSimultaneously: 0
   playFlipSoundAfterAnimation: 0
   extraDelayBeforeFlipSound: 0
-  definitionSound: {fileID: 8300000, guid: f858ccf1fe0f98340b73fd94c8d17b05, type: 3}
+  definitionSound: {fileID: 8300000, guid: 8e1b57a89ece86249b3592ba617292c6, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0
   hoverCooldownSeconds: 0.5
