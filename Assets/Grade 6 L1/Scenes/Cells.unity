@@ -620,14 +620,14 @@ PrefabInstance:
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: keywordSound
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: a34fe3952c029684793e2fed89d70667, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: definitionSound
       value: 
       objectReference: {fileID: 8300000, guid: f3793d8ffc34bcc4e8624b799a5698df, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeFlipAnimation
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeDefinitionSound
@@ -2453,14 +2453,14 @@ PrefabInstance:
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: keywordSound
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: 79505079822eb50488584c37b3d46229, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: definitionSound
       value: 
       objectReference: {fileID: 8300000, guid: 95462bef3535513498c2494a3a095ec9, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeFlipAnimation
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeDefinitionSound
@@ -8529,7 +8529,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -8540,7 +8539,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!225 &1036057937
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -8793,7 +8791,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -8804,7 +8801,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!225 &1051554207
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -10487,7 +10483,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -10498,7 +10493,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!225 &1350475739
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -10714,14 +10708,14 @@ PrefabInstance:
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: keywordSound
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 8300000, guid: a77eb933b44a4f840ba6fd83789ca592, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: definitionSound
       value: 
       objectReference: {fileID: 8300000, guid: 75e85ca2b5f569f4eaf3cf84df435c46, type: 3}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeFlipAnimation
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3833532866702145630, guid: c4bf815e87deb554084d3b41acf90336, type: 3}
       propertyPath: delayBeforeDefinitionSound
@@ -17937,7 +17931,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -17948,7 +17941,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!114 &4544455534730799264
 MonoBehaviour:
   m_ObjectHideFlags: 0

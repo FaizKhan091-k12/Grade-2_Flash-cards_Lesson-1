@@ -2130,12 +2130,11 @@ MonoBehaviour:
   backImage: {fileID: 1355686085}
   backInfo: {fileID: 1355686079}
   flipDuration: 0.5
-  delayBeforeFlipAnimation: 1
+  delayBeforeFlipAnimation: 2
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
-  keywordSound: {fileID: 0}
+  keywordSound: {fileID: 8300000, guid: 2246870176a145742bc9e39d28d877f8, type: 3}
   keywordVolume: 0.9
   flipSound: {fileID: 8300000, guid: 436d275c6faaa5c4d8d9dadec7f14a11, type: 3}
   flipVolume: 1
@@ -2145,7 +2144,6 @@ MonoBehaviour:
   definitionSound: {fileID: 8300000, guid: b2f71a20878e87b489102890fe8f4ab2, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0
-  hoverCooldownSeconds: 0.5
 --- !u!114 &1355686088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7043,7 +7041,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -7054,7 +7051,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!114 &3326859218683502848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7716,12 +7712,11 @@ MonoBehaviour:
   backImage: {fileID: 8697409934756083406}
   backInfo: {fileID: 6141753633390991759}
   flipDuration: 0.5
-  delayBeforeFlipAnimation: 1
+  delayBeforeFlipAnimation: 2
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
-  keywordSound: {fileID: 0}
+  keywordSound: {fileID: 8300000, guid: 3d402610e9a982c42bd613a7cab29e11, type: 3}
   keywordVolume: 0.9
   flipSound: {fileID: 8300000, guid: 436d275c6faaa5c4d8d9dadec7f14a11, type: 3}
   flipVolume: 1
@@ -7731,7 +7726,6 @@ MonoBehaviour:
   definitionSound: {fileID: 8300000, guid: a092543f1a8961646b1595044bac1fa3, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0
-  hoverCooldownSeconds: 0.5
 --- !u!114 &3555257644208032473
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8047,7 +8041,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -8058,7 +8051,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!114 &4025622738310891459
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13051,7 +13043,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 8300000, guid: 83d015431a0e97e42ba019fed5dc9af0, type: 3}
   keywordVolume: 0.9
   flipSound: {fileID: 8300000, guid: 436d275c6faaa5c4d8d9dadec7f14a11, type: 3}
@@ -13062,7 +13053,6 @@ MonoBehaviour:
   definitionSound: {fileID: 8300000, guid: 1f02470cf79cab949817fadb0e81a1a2, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.5
-  hoverCooldownSeconds: 0.5
 --- !u!222 &6362582717540310591
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13320,7 +13310,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -13331,7 +13320,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!114 &6693198770944885657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13420,7 +13408,6 @@ MonoBehaviour:
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
   keywordSound: {fileID: 0}
   keywordVolume: 0.9
   flipSound: {fileID: 0}
@@ -13431,7 +13418,6 @@ MonoBehaviour:
   definitionSound: {fileID: 0}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0.25
-  hoverCooldownSeconds: 0.5
 --- !u!114 &6799744529236726015
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16567,12 +16553,11 @@ MonoBehaviour:
   backImage: {fileID: 546640550636180139}
   backInfo: {fileID: 5819110773591789803}
   flipDuration: 0.5
-  delayBeforeFlipAnimation: 1
+  delayBeforeFlipAnimation: 2
   lockClicksForFlipDuration: 1
   globalClickLockSeconds: 0.35
   audioSource: {fileID: 0}
-  hoverAudioSource: {fileID: 0}
-  keywordSound: {fileID: 0}
+  keywordSound: {fileID: 8300000, guid: b24c472d28649df4faaddd66da192a65, type: 3}
   keywordVolume: 0.9
   flipSound: {fileID: 8300000, guid: 436d275c6faaa5c4d8d9dadec7f14a11, type: 3}
   flipVolume: 1
@@ -16582,7 +16567,6 @@ MonoBehaviour:
   definitionSound: {fileID: 8300000, guid: f907ae17c1263e44591ce6febf1b96f8, type: 3}
   definitionVolume: 1
   delayBeforeDefinitionSound: 0
-  hoverCooldownSeconds: 0.5
 --- !u!82 &9160167724558740584
 AudioSource:
   m_ObjectHideFlags: 0
